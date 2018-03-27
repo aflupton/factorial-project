@@ -1,0 +1,13 @@
+#userOutput {
+  display: none;
+}
+#answer {
+  font-weight: bold;
+}
+.jumbotron {
+  background-color: #cde7f0;
+}
+h1 {
+  font-size: 40pt;
+  text-align: center;
+}
